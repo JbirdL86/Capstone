@@ -2,7 +2,13 @@
 
 # Capstone
 
-> One paragraph statement about the project.
+> The Capstone is a Microverse project where we get to practice all the things we've learned during the module. Capstone projects are solo or group projects at the end of the each of the Microverse Core Curriculum modules. Building this project is very important for you because:
+
+   - It is similar to real-world projects you may be asked to make, and it is built with business specifications that will look really nice in your portfolio.
+   - You will get feedback about the achievement of technical and soft skills gained during this module of the program.
+
+  This Capstone was made and designed for a web development course.
+
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,50 +16,24 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- javaScript
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [@githubhandle](https://github.com/JbirdL86)
+- Twitter: [@twitterhandle](https://twitter.com/JuanLui06498455)
+- Linkedin: [linkedin](https://www.linkedin.com/in/juan-luis-0551921aa/)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -67,8 +47,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
+- Microverse
+- Figma 
 - etc
 
 ## 📝 License
