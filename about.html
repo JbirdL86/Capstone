@@ -12,12 +12,46 @@
     <script src="https://kit.fontawesome.com/0007bfca3c.js" crossorigin="anonymous"></script>
   </head>
   <body>
-    <header class="navbar-container">
-      <nav>
+    <header>
+      <nav class="top-nav">
+        <ul class="top-menu">
+          <li><i class="fab fa-facebook-f"></i></li>
+          <li><i class="fab fa-twitter"></i></li>
+          <li>English</li>
+          <li>My Page</li>
+          <li>Logout</li>
+        </ul>
+      </nav>
+      <nav class="bottom-menu">
         <button class="openIcon" aria-label="Navigation button"><i class="fas fa-bars fa-2x"></i></button>
+        <div class="logo-container">
+          <a href="index.html">
+            <img class="logo-image" src="assets/copyrightLogo.png" alt="logo copyright">
+          </a>
+        </div>
+        <ul class="nav-menu">
+          <li><a href="index.html">Home</a></li>
+          <li><a>Artist</a></li>
+          <li><a>Join</a></li>
+          <li><a>Schedule</a></li>
+          <li><a>News</a></li>
+          <li><button>Register now</button></li>
+          <li class="closeIcon">
+            <a>X</a>
+          </li>
+        </ul>
       </nav>
     </header>
     <main id="home">
+      <div class="nav-icons">
+        <ul>
+          <li><a><i class="fas fa-home"></i></a></li>
+          <li><a><i class="fas fa-chevron-right"></i></a></li>
+          <li><a>About</a></li>
+          <li><a><i class="fas fa-chevron-right"></i></a></li>
+          <li><a>copyright</a></li>
+        </ul>
+      </div>
       <section class="about-header">
         <div class="intro-header">
           <h5>"Hello! New students, welcome!"</h5>
@@ -32,15 +66,19 @@
       <section class="about-logo">
         <h3>WebDev 2021 Program Logo</h3>
         <div class="main-title"></div>
-        <p>The logo of WebDev 2021 was decided through the students poll from July 15 to August 21</p>
+        <p>The logo of WebDev 2021 was decided through the students poll from July 15 to August 21.</p>
+        <p class="desktop-text">After running poll among our students and preselection process the logo from Mark Dylan won the prize.</p>
+        <p class="desktop-text">After consultation with Mr.Dylan we optimized the prize-winning-logo for this year cohort as following:</p>
         <img src="assets/logo.png" alt="webdev logo">
       </section>
       <section class="past-programs">
         <h3>See the past years programs</h3>
         <div class="main-title"></div>
         <p>Take a look to the las two years programs which were only available locally</p>
-        <img src="assets/pastprogram.png" alt="student assembly">
-        <img src="assets/pastprogram1.png" alt="student assembly">
+        <div class="programs-container">
+          <img src="assets/pastprogram.png" alt="student assembly">
+          <img src="assets/pastprogram1.png" alt="student assembly">
+        </div>
       </section>
       <section class="program-partners">
         <h3>Partner</h3>
@@ -58,8 +96,11 @@
       </section>
       <footer class="about-footer">
         <ul class="copyright">
-          <li>
+          <li class="mo-copy"> 
             <img src="assets/copyrightLogo.png" alt="logo copyright">
+          </li>
+          <li class="desktop-copyright">
+            <img src="assets/whitelogo.png" alt="logo copyright">
           </li>
           <li>
             <p>2021 WebDev courses.</p>
