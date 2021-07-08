@@ -10,7 +10,7 @@
   This Capstone was made and designed for a web development course.
 
 
-![screenshot](./app_screenshot.png)
+![screenshot](assets/desktopSite.png)
 
 Additional description about the project and its features.
 
@@ -22,7 +22,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://jbirdl86.github.io/Capstone/)
 
 
 ## Authors
@@ -39,7 +39,7 @@ Additional description about the project and its features.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/JbirdL86/Capstone/issues).
 
 ## Show your support
 
