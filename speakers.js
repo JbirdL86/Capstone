@@ -15,14 +15,13 @@ function createSpeakers() {
 
   speaker = new Speaker('Elon Musk', 'Founder, CEO and Chief Engineer of SpaceX', 'Elon Reeve Musk is an entrepreneur and business magnate. He is the founder, CEO, and Chief Engineer at SpaceX; early stage investor, CEO, and Product Architect of Tesla, Inc.', 'assets/elonmusk.png');
   speakers.push(speaker);
-
 }
 
 function populateSpeakers() {
   const speakerContainer = document.querySelector('.speakers-container');
 
   for (let i = 0; i < speakers.length; i += 1) {
-    let speakerWrapper = document.createElement('article');
+    const speakerWrapper = document.createElement('article');
 
     speakerWrapper.classList.add('speakers-wrapper');
     speakerWrapper.innerHTML = `
