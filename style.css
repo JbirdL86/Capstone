@@ -178,72 +178,6 @@ header {
   padding: 40px 12px;
 }
 
-.speakers-container {
-  display: flex;
-  flex-direction: column;
-}
-
-.speakers-wrapper {
-  display: flex;
-  align-items: flex-start;
-  margin-bottom: 5%;
-}
-
-.speaker-text {
-  margin-left: 10px;
-}
-
-.speaker-text > h4 {
-  font-weight: bold;
-}
-
-.speaker-text > h5 {
-  color: #ec5242;
-  font-size: 0.7rem;
-  font-style: italic;
-  font-weight: 100;
-  font-family: 'Cocogoose', serif;
-}
-
-.divisor {
-  width: 25px;
-  border: 1px solid rgb(172, 168, 168);
-  margin: 15px 0;
-}
-
-.speaker-image-container {
-  position: relative;
-  top: 0;
-  left: 0;
-  width: 180px;
-  height: 200px;
-}
-
-.speaker-pattern {
-  position: relative;
-  top: 0;
-  left: 0;
-  width: 60px;
-  height: 60px;
-}
-
-.speaker-pattern > img {
-  width: 100%;
-}
-
-.speaker-image {
-  position: absolute;
-  top: 20px;
-  left: 20px;
-  width: 150px;
-  height: 150px;
-}
-
-.speaker-image img {
-  width: 100%;
-  height: 100%;
-}
-
 .more {
   display: flex;
   align-items: center;
@@ -502,19 +436,6 @@ header {
 
   .featured-speakers {
     padding: 0 15%;
-  }
-
-  .speakers-container {
-    flex-direction: row;
-    justify-content: space-between;
-  }
-
-  .speakers-wrapper {
-    width: 50%;
-  }
-
-  .speaker-text {
-    margin: 0 10px;
   }
 
   .nav-icons {
