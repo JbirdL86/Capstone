@@ -12,7 +12,7 @@
 
 ![screenshot](assets/desktopSite.png)
 
-Additional description about the project and its features.
+Most of the project is made with basic HTML and CSS, the speakers section is made dynamically with JS.
 
 ## Built With
 
@@ -49,7 +49,11 @@ Give a ⭐️ if you like this project!
 
 - Microverse
 - Figma 
-- etc
+- [Template Design By Cindy Shin](https://www.behance.net/adagio07)
+- [GitHub Pages](https://pages.github.com)
+- [Font Awesome](https://fontawesome.com)
+- [Google Fonts](https://fonts.google.com/)
+- <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 ## 📝 License
 
